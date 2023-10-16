@@ -8,6 +8,10 @@ import StackManageHandle from '@/views/stackManage/handle.vue'
 
 const routesList = [
   {
+    path: '/',
+    redirect: '/home'
+  },
+  {
     path: '/home',
     name: 'home',
     component: Home
