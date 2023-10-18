@@ -14,7 +14,9 @@
   "dependencies": {
     "ant-design-vue": "4.x",
     "normalize.css": "^8.0.1",
+    "particles.vue3": "^2.12.0",
     "pinia": "^2.1.6",
+    "tsparticles-slim": "^2.12.0",
     "vue": "^3.3.4",
     "vue-router": "^4.2.4"
   },
